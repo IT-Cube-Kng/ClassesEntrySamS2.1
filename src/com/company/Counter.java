@@ -33,7 +33,7 @@ public class Counter {
     /**
      * Инкремент глобального счетчика
      */
-    public static void globalAdding() {
+    public void globalAdding() {
         globalCount++;
     }
 
